@@ -1,5 +1,4 @@
-# Privacy_Policy
-Privacy_Policy
+# Privacy Policy
 
 Welcome to my app for Android!
 
